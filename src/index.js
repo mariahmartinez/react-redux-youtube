@@ -9,7 +9,7 @@ import SearchBar from './components/search_bar';
 import VideoList from './components/video_list';
 import VideoDetail from './components/video_detail';
 
-const API_KEY='AIzaSyCcd-y-Eipwy7XcwTv_iD8gf5kzz2z870Y';
+const API_KEY='';
 
 class App extends Component {
   constructor(props) {
